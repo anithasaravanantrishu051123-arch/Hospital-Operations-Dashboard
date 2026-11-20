@@ -1,0 +1,39 @@
+Doctor_ID,Doctor_Name,Specialization,Department_ID
+DOC001,Dr. Aryan Maharaj,Cardiologist,DEPT01
+DOC002,Dr. Udant Dewan,Cardiac Surgeon,DEPT01
+DOC003,Dr. Gagan Sami,Orthopedic Surgeon,DEPT02
+DOC004,Dr. Ayushman Chander,Orthopedic Surgeon,DEPT02
+DOC005,Dr. Viraj Tiwari,Orthopedic Surgeon,DEPT02
+DOC006,Dr. Rushil Saini,Neurosurgeon,DEPT03
+DOC007,Dr. Saumya Mall,Neurologist,DEPT03
+DOC008,Dr. Nathaniel Sami,Pediatrician,DEPT04
+DOC009,Dr. Arunima Dugal,Pediatrician,DEPT04
+DOC010,Dr. Gayathri Chaudry,Gynecologist,DEPT05
+DOC011,Dr. Lajita Chatterjee,Gynecologist,DEPT05
+DOC012,Dr. Hemangini Lalla,Obstetrician,DEPT05
+DOC013,Dr. Tripti Yadav,Internist,DEPT06
+DOC014,Dr. Kritika Brar,Internist,DEPT06
+DOC015,Dr. Janaki Handa,General Physician,DEPT06
+DOC016,Dr. Chakradev Kari,Radiation Oncologist,DEPT07
+DOC017,Dr. Fariq Kaul,Radiation Oncologist,DEPT07
+DOC018,Dr. Lajita Mall,Radiation Oncologist,DEPT07
+DOC019,Dr. Janya Gaba,Emergency Medicine Specialist,DEPT08
+DOC020,Dr. Isha Kadakia,Emergency Medicine Specialist,DEPT08
+DOC021,Dr. Ekbal Garg,Emergency Medicine Specialist,DEPT08
+DOC022,Dr. Nihal Shere,Radiologist,DEPT09
+DOC023,Dr. Anamika Kanda,Radiologist,DEPT09
+DOC024,Dr. Daksh Karnik,Dermatologist,DEPT10
+DOC025,Dr. Diya Rattan,Dermatologist,DEPT10
+DOC026,Dr. Dominic Kakar,Dermatologist,DEPT10
+DOC027,Dr. Simon Tata,Dermatologist,DEPT10
+DOC028,Dr. Tara Dhar,ENT Surgeon,DEPT11
+DOC029,Dr. Liam Koshy,ENT Surgeon,DEPT11
+DOC030,Dr. Priya Rastogi,Oral Surgeon,DEPT12
+DOC031,Dr. Theodore Devi,Dentist,DEPT12
+DOC032,Dr. Gavin Batta,Dentist,DEPT12
+DOC033,Dr. Michael Dutta,Dentist,DEPT12
+DOC034,Dr. Devansh Rajan,Ophthalmologist,DEPT13
+DOC035,Dr. Upadhriti Wadhwa,Ophthalmologist,DEPT13
+DOC036,Dr. Advay Contractor,Ophthalmologist,DEPT13
+DOC037,Dr. Harini Choudhury,Physiotherapist,DEPT14
+DOC038,Dr. Radhika Dugar,Physiotherapist,DEPT14
